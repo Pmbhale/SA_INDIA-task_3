@@ -31,8 +31,21 @@ This is a **Java-based Quiz Application** built using **Swing** for GUI and **My
 
 ## 📷 Screenshots
 
-> Add screenshots here (optional)\
-> Example: `images/quiz-screenshot.png`
+<img width="986" height="643" alt="Screenshot 2025-07-31 003426" src="https://github.com/user-attachments/assets/b97e5f9a-7a49-4744-a848-42c1b0a4f579" />
+<img width="986" height="643" alt="Screenshot 2025-07-31 003445" src="https://github.com/user-attachments/assets/cc8931e7-47ee-4630-b87f-764decf55470" />
+<img width="586" height="393" alt="Screenshot 2025-07-31 003650" src="https://github.com/user-attachments/assets/37185d5c-9783-439d-96b0-215168c13443" />
+
+<img width="486" height="393" alt="Screenshot 2025-07-31 003519" src="https://github.com/user-attachments/assets/ac9ba7e4-eed9-44e7-9a33-64a00dac9f53" />
+
+<img width="386" height="243" alt="Screenshot 2025-07-31 003601" src="https://github.com/user-attachments/assets/6ccf4a0d-25ad-475b-963a-43241fa77bd4" />
+
+
+<img width="1366" height="720" alt="Screenshot 2025-07-31 003555" src="https://github.com/user-attachments/assets/7c58cdec-248c-48d1-a039-9a178592f081" />
+
+
+
+
+
 
 ---
 
